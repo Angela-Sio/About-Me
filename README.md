@@ -10,4 +10,4 @@ Now, you might be wondering why data analytics. Why pursue a career as a Data An
 
 ## Contact Me
 [Linkedin](https://www.linkedin.com/in/angela-sio/)
-[Email Me](kia.sio125@gmail.com)
+Email: kia.sio125@gmail.com
