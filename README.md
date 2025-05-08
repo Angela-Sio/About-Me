@@ -1,6 +1,4 @@
-# ABOUT ME
-
-## Introduction:
+# Introduction:
 
 Hi there! If you've found your way to this page, you're probably curious about who I am and what sets me apart. Let's start with the basics, my name is Ka I, but I go by Angela. I earned my B.A in Business Economics with a minor in Operations and Supply Chain Management from the University of Califronia, Riverside. I was raised in San Francisco and moved back after college to be closer to my family.
 
