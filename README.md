@@ -8,6 +8,8 @@ Hi there! If you've found your way to this page, you're probably curious about w
 
 Now, you might be wondering why data analytics. Why pursue a career as a Data Analyst? The simple answer is I guenuiely enjoy working with Excel and exploring all the powerful things it can do. I'm fasincated by how data can tell a stroy, drive decisions, and reveal insights. While i'm still learning and growinf in this field, I'm excited about the journey ahead of me and all the possibilities it holds. 
 
-## Contact Me
+### [Portfolio](https://angela-sio.github.io/Portfolio/)
+
+## [Contact Me]
 - [Linkedin](https://www.linkedin.com/in/angela-sio/)
 - Email: kia.sio125@gmail.com
